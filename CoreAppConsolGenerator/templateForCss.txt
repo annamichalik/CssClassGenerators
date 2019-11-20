@@ -1,0 +1,5 @@
+﻿ .%css_class%
+  {
+    fill:%color%;
+    transition: fill .5s;
+  }
